@@ -10,4 +10,6 @@ structure
 
 ### npx create-react-app . --template redux-typescript
 
-#### https://profy.dev/article/react-folder-structure
+### https://profy.dev/article/react-folder-structure
+
+### https://medium.com/edonec/redux-can-be-made-easier-with-redux-toolkit-b1d2d17b90ba
