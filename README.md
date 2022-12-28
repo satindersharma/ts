@@ -8,7 +8,7 @@ Typescript related
 structure
 ### https://www.taniarascia.com/react-architecture-directory-structure/
 
-### npx create-react-app . --template redux-typescript
+### `npx create-react-app . --template redux-typescript`
 
 ### https://profy.dev/article/react-folder-structure
 
